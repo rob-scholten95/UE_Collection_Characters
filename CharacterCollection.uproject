@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "UE_Characters",
+			"Enabled": true
 		}
 	]
 }
